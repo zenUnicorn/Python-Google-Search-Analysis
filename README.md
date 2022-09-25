@@ -113,7 +113,7 @@ df = pd.DataFrame(keywords)
 df.drop(columns= 'mid')
  ```
  
- I will update this repo once I publish an article about this project.
+ I will update this repository once I publish an article about this project.
  
  Happy coding!
  
